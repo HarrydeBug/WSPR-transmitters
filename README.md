@@ -1,4 +1,6 @@
 # 1011 WSPR-TX_LP1
-# 1012 WSPR Desktop Transmitter
-Arduino firmware and PC executable for the WSPR-TX_LP1 Transmitter and the WSPR Desktop Transmitter
+# 1012 WSPR-TX Desktop Transmitter
+# 1017 WSPR-TX Mini
+# 1020 WSPR-TX_LP1 with Mezzanine LP4 card
+Arduino firmware and PC executable for the WSPR transmitters
 
