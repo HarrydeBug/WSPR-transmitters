@@ -3,5 +3,6 @@
 # 1017 WSPR-TX Mini
 # 1020 WSPR-TX_LP1 with Mezzanine LP4 card
 # 1028 WSPR-TX Pico
-Arduino firmware and PC executable for the WSPR transmitters
+Arduino firmware and PC executable for my WSPR transmitters.
+More info at www.zachtek.com
 
