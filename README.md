@@ -1,8 +1,5 @@
-# 1011 WSPR-TX_LP1
-# 1012 WSPR-TX Desktop Transmitter
-# 1017 WSPR-TX Mini
-# 1020 WSPR-TX_LP1 with Mezzanine LP4 card
-# 1028 WSPR-TX Pico
 Arduino firmware and PC executable for my WSPR transmitters.
 More info at www.zachtek.com
 
+Firmware version 1 is for ATMega328 based microcontrollers - The hardware this runs also has a hardware version of 1.xx
+Firmware Version 2 is for ESP8285 based microcontrollers - The hardware this runs on has a hardware version of 2.xx
