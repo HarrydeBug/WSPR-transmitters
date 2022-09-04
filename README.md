@@ -1,5 +1,7 @@
 Arduino firmware, documentation and PC executable for my WSPR transmitters.
 More info at www.zachtek.com
 
-Firmware version 1 is for ATMega328 based microcontrollers - The hardware this runs on has a hardware version of 1.xx
-Firmware Version 2 is for ESP8285 based microcontrollers - The hardware this runs on has a hardware version of 2.xx
+Firmware version 1.xx for WSPR transmitters with hardware version 1.xx. These are ATMega328 based.
+Frimware version 2.xx for WSPR transmitters with hardware version 2.xx. These are ESP8285 based.
+
+
